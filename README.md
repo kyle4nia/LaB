@@ -1,2 +1,23 @@
 # LaB
 The next step in the evolution of self-governance
+LaB
+(lah-bee)
+	A decentralized, self-erecting social network designed to address several issues with the current state of society. The Lab ecosystem is designed to allow society to rely less on government to solve the problems that our representative democracy was not designed to solve. LaB rewards principled participation and naturally discourages politics, rhetoric, and trolling. Citizens gain the ability to ‘vote’ minute to minute allowing for tactical decision-making based on the latest evidence and data. LaB will circumnavigate politics allowing a consensus to dictate policy. Citizen participants are rewarded according to their level of participation creating limitless opportunities to earn income as an individual while reducing the costs of governance. Using blockchain technology and a 3rd ledger system of accounting, the operations are fully transparent and auditable. Lastly, in the interest of stability, the value of the native token will be tied to the median value of 1 hr of human labor, currently $16.36 in the US.
+
+	LaB will allow people to communicate and share directly without a profit-based algorithm directing their attention. Users own their data and can choose when and with whom they share it.
+	LaB pays real rewards to users that participate in any of a number of ways. A user can be rewarded for securing the network. A user can be rewarded for providing a service to the network. A user can be rewarded for performing a job that the network needs done. Users also earn by maintaining a reputation and participating in discussions.
+	LaB will allow society to rely less on the government and solve its own problems. Using trusted data acquired by the network, users can choose a course of action by consensus. Minds and situations often change and the current “vote by representative” system is dated and broken. Partisan politics has taken over and is not only corrupt but extremely inefficient. LaB makes politics ineffectual.
+	LaB will utilize a 3rd leger accounting system that allows users to see every financial transaction made on the network effectively ending corruption and wasteful spending. The 3rd leger will be kept on a blockchain so as to be immutable and secure.
+	Every user will be issued 3 vote tokens. Users may choose to utilize a ranked-choice style voting system. Decisions made by consensus are at the mercy of future consensus.
+	LaB is troll-proof. If a user is disrespectful or unhelpful, they lose reputational score and will miss out on financial opportunities and have less opportunity to participate in discussions. Users with high reputational scores will have the most weight during discussions.
+	LaB will be a constant work-in-progress. Improvements will constantly be implemented as consensus dictates. Real-life situations change constantly and new data may paint a new picture and so consensus will adapt accordingly.
+	Data becomes “trusted data” by consensus. The threshold of consensus will be implemented by consensus. Not unlike a sports league that implements rule changes to keep the games competitive and players healthy, LaB will adapt and grow with the ultimate goal of Liberty and Justice for all.
+
+
+Verified Vote Tokens
+	Each user will be allocated 3 vote tokens. A primary vote, secondary vote, and last choice. A user must complete a zero-proof-knowledge identity verification to be able to use the vote tokens. A unique ID is created that is verified but discrete. Individual users can be identified by this ID but their personal information cannot be acquired. This ID becomes an avatar in the LaB ecosystem that allows users to participate in the network while maintaining complete privacy while protecting the network from fraudulent users. The form and function of voting will be developed and maintained by consensus.
+Support Tokens
+	A finite amount of support tokens will be offered to finance the initial build out of the network. These tokens can be traded or held with the revenue produced going towards the initial cost of building the network. Early adopters are rewarded for participation with support tokens.
+
+Native Tokens
+	An additional finite number of native tokens will be created through a blockchain mechanism and will serve as the main conduit of value exchange. Users who participate will be paid in this native token which will be stabilized through an “Ecosystem” mechanism. The “Ecosystem” will determine value by connecting the token value to 1 hour of human labor, the median value of an hour of human labor sets the value over the whole network. This is designed to discourage speculative trading and allow the token to be stable in value.
